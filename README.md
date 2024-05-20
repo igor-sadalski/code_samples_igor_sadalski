@@ -20,6 +20,10 @@ Experimented with various preprocesing document techniques, performed indexing u
 
 Brain connections can be maped accurately as a graph using large and expensive MRI machines. One idea to decrease costs is to use simpler mapping techniques and then increase the resolution of the brain map (represented as graph) using Graph Neural Networks. This projects (which was a Kaggle competition) tried to achieve this. 
 
+## Advanced Applied Python ([here](https://github.com/igor-sadalski/code_samples_igor_sadalski/tree/master/6-PYTHON_PRESENTATION))
+
+I lead a one hour long presentation + workshop for students in CS reasearch lab at Harvard about the state of the art in modern python programing. Examples in the presentaiton are based on the code I either developed during the placement or some toy examples that show topics well. I talked about Typed Python, Interfaces, ABC and @abstractmethod, Profiling and Logging, Generators and list comprehensions , @staticmethod, @property, @property.setter, @classmethod, Use global variables in configuration files, Python Standard Library, Python/General OOP practices. 
+
 
 
 
