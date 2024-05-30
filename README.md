@@ -24,7 +24,7 @@ Brain connections can be maped accurately as a graph using large and expensive M
 
 I lead a one hour long presentation + workshop for students in CS reasearch lab at Harvard about the state of the art in modern python programing. Examples in the presentaiton are based on the code I either developed during the placement or some toy examples that show topics well. I talked about Typed Python, Interfaces, ABC and @abstractmethod, Profiling and Logging, Generators and list comprehensions , @staticmethod, @property, @property.setter, @classmethod, Use global variables in configuration files, Python Standard Library, Python/General OOP practices. 
 
-## CV ([here](https://github.com/igor-sadalski/code_samples_igor_sadalski/tree/master/CV_Igor_Sadalski))
+## CV ([here](https://github.com/igor-sadalski/code_samples_igor_sadalski/tree/master))
 
 CV including my most up to date experie
 
